@@ -2165,12 +2165,6 @@
 		(uuid "65c0acbb-61a5-435b-b643-c3626d33f332")
 	)
 	(junction
-		(at 203.2 146.05)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "661de98d-3d70-41af-bd6a-804ab73773c5")
-	)
-	(junction
 		(at 139.7 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2201,12 +2195,6 @@
 		(uuid "7b255c6b-dbf7-470a-b27a-d4d043557b3f")
 	)
 	(junction
-		(at 219.71 165.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7bd8589c-dba5-47f7-ad6d-666f9a63bd04")
-	)
-	(junction
 		(at 208.28 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2229,12 +2217,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "808cf22e-2311-47bd-9003-469f55de2841")
-	)
-	(junction
-		(at 219.71 146.05)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8188e17b-83b5-4376-ae1e-c201b5a0748a")
 	)
 	(junction
 		(at 86.36 165.1)
@@ -2289,18 +2271,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ab33807a-a4db-4b63-bfc9-590fc2f18987")
-	)
-	(junction
-		(at 69.85 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b001a1aa-03f3-4d26-b06e-d608674c7e56")
-	)
-	(junction
-		(at 72.39 43.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b2f54811-d069-48a6-aab8-6f9439209a8f")
 	)
 	(junction
 		(at 173.99 137.16)
@@ -2453,12 +2423,6 @@
 		(uuid "f54fb75e-c463-404a-9361-5ce6c6925dc2")
 	)
 	(junction
-		(at 203.2 165.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f704520d-dc6c-4299-9b74-6e39c25867f6")
-	)
-	(junction
 		(at 43.18 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2493,6 +2457,10 @@
 		(uuid "0f2e8dc9-c11d-4511-b596-721f2ad3d4b1")
 	)
 	(no_connect
+		(at 62.23 55.88)
+		(uuid "5db4bad4-0053-48f4-b1ce-3547ab55b053")
+	)
+	(no_connect
 		(at 134.62 66.04)
 		(uuid "5ffda7de-33c5-48db-873b-e99275a90d8e")
 	)
@@ -2519,6 +2487,10 @@
 	(no_connect
 		(at 104.14 66.04)
 		(uuid "ba31bb64-0476-460a-b225-7734be51e8ae")
+	)
+	(no_connect
+		(at 210.82 157.48)
+		(uuid "df351d41-3275-46f2-bf19-c6f556a3996b")
 	)
 	(no_connect
 		(at 134.62 38.1)
@@ -2736,16 +2708,6 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 45.72) (xy 69.85 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b42f6a1-5e43-4c1b-a2f2-dcada8f4f78d")
-	)
-	(wire
-		(pts
 			(xy 102.87 63.5) (xy 104.14 63.5)
 		)
 		(stroke
@@ -2886,16 +2848,6 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 55.88) (xy 72.39 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2c058576-cd58-4a63-a859-308cdbf31433")
-	)
-	(wire
-		(pts
 			(xy 190.5 157.48) (xy 195.58 157.48)
 		)
 		(stroke
@@ -2966,7 +2918,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 43.18) (xy 72.39 39.37)
+			(xy 68.58 43.18) (xy 68.58 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3006,7 +2958,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 53.34) (xy 69.85 58.42)
+			(xy 68.58 45.72) (xy 68.58 58.42)
 		)
 		(stroke
 			(width 0)
@@ -3246,16 +3198,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 55.88) (xy 72.39 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "605d0318-821b-4a2e-a00b-649381940b24")
-	)
-	(wire
-		(pts
 			(xy 147.32 137.16) (xy 163.83 137.16)
 		)
 		(stroke
@@ -3356,7 +3298,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 43.18) (xy 72.39 43.18)
+			(xy 62.23 43.18) (xy 68.58 43.18)
 		)
 		(stroke
 			(width 0)
@@ -3756,16 +3698,6 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 157.48) (xy 228.6 157.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "928bde21-4218-4137-86d3-1a01dab379fe")
-	)
-	(wire
-		(pts
 			(xy 173.99 118.11) (xy 184.15 118.11)
 		)
 		(stroke
@@ -3896,26 +3828,6 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 146.05) (xy 236.22 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9f1f5791-036d-4497-af26-ead7e23ec68c")
-	)
-	(wire
-		(pts
-			(xy 62.23 53.34) (xy 69.85 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a01f2407-1851-4904-be7d-52655a951450")
-	)
-	(wire
-		(pts
 			(xy 173.99 123.19) (xy 173.99 137.16)
 		)
 		(stroke
@@ -3983,16 +3895,6 @@
 			(type default)
 		)
 		(uuid "aa5be91a-6cfc-4b36-9e8f-4eea1248a027")
-	)
-	(wire
-		(pts
-			(xy 210.82 157.48) (xy 212.09 157.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ab594cf0-8b7c-4112-80a9-eaed36e8ac98")
 	)
 	(wire
 		(pts
@@ -4126,16 +4028,6 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 165.1) (xy 236.22 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bad06a18-ff42-4d16-ac42-64f35c935010")
-	)
-	(wire
-		(pts
 			(xy 257.81 46.99) (xy 271.78 46.99)
 		)
 		(stroke
@@ -4233,16 +4125,6 @@
 			(type default)
 		)
 		(uuid "c0e7988c-9c1f-4430-892b-10557fa65d44")
-	)
-	(wire
-		(pts
-			(xy 219.71 146.05) (xy 236.22 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c2b270b0-e88a-45e0-a355-abe6c464e721")
 	)
 	(wire
 		(pts
@@ -4386,7 +4268,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 45.72) (xy 69.85 45.72)
+			(xy 62.23 45.72) (xy 68.58 45.72)
 		)
 		(stroke
 			(width 0)
@@ -4476,16 +4358,6 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 165.1) (xy 219.71 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e01b9ecb-261e-4035-9347-21ad0a54648c")
-	)
-	(wire
-		(pts
 			(xy 175.26 46.99) (xy 191.77 46.99)
 		)
 		(stroke
@@ -4503,6 +4375,16 @@
 			(type default)
 		)
 		(uuid "e3e459f2-fe42-4067-a5d0-b43a79e4edb9")
+	)
+	(wire
+		(pts
+			(xy 62.23 53.34) (xy 63.5 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5a1911f-007d-46c0-a905-f421151d1b22")
 	)
 	(wire
 		(pts
@@ -4616,16 +4498,6 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 146.05) (xy 219.71 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f395871e-bb18-4222-9934-bd47af5d97ae")
-	)
-	(wire
-		(pts
 			(xy 93.98 137.16) (xy 110.49 137.16)
 		)
 		(stroke
@@ -4703,16 +4575,6 @@
 			(type default)
 		)
 		(uuid "fbf5bda4-a53d-4f7e-b7c6-e8f482a4dbca")
-	)
-	(wire
-		(pts
-			(xy 219.71 146.05) (xy 219.71 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe98041c-5538-4fed-a495-129f6c42d4b4")
 	)
 	(label "Col 6"
 		(at 135.89 63.5 0)
@@ -4903,6 +4765,16 @@
 			(justify left bottom)
 		)
 		(uuid "da021bef-5f82-409c-8131-d8b04509dcbe")
+	)
+	(label "LED"
+		(at 63.5 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "da494129-62cb-42da-9b27-8c530650906a")
 	)
 	(label "Col 4"
 		(at 135.89 58.42 0)
@@ -5266,7 +5138,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 72.39 39.37 0)
+		(at 68.58 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5275,7 +5147,7 @@
 		(fields_autoplaced yes)
 		(uuid "053f861c-98e8-4fa4-b362-cb15b4c06dfa")
 		(property "Reference" "#PWR02"
-			(at 72.39 43.18 0)
+			(at 68.58 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5284,7 +5156,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 72.39 34.29 0)
+			(at 68.58 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5292,7 +5164,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 72.39 39.37 0)
+			(at 68.58 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5301,7 +5173,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 72.39 39.37 0)
+			(at 68.58 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5310,7 +5182,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 72.39 39.37 0)
+			(at 68.58 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5355,7 +5227,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Keyboard:SK6812-MINI-E"
 			(at 25.4 137.16 0)
 			(effects
 				(font
@@ -5432,7 +5304,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 173.99 120.65 0)
 			(effects
 				(font
@@ -5499,7 +5371,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Keyboard:SK6812-MINI-E"
 			(at 58.42 137.16 0)
 			(effects
 				(font
@@ -5574,7 +5446,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Keyboard:SK6812-MINI-E"
 			(at 95.25 137.16 0)
 			(effects
 				(font
@@ -5649,7 +5521,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Keyboard:SK6812-MINI-E"
 			(at 218.44 137.16 0)
 			(effects
 				(font
@@ -5724,7 +5596,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Keyboard:SK6812-MINI-E"
 			(at 148.59 137.16 0)
 			(effects
 				(font
@@ -5889,7 +5761,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 193.04 148.59 0)
 			(effects
 				(font
@@ -5994,81 +5866,6 @@
 			(project "astronomer"
 				(path "/a70307ac-575e-44e0-9d46-52d12b81df3d"
 					(reference "SW3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:SK6812MINI")
-		(at 219.71 157.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1c85dcdc-9406-4eb9-ae2d-e1baf1a5145e")
-		(property "Reference" "D45"
-			(at 231.14 151.0598 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI"
-			(at 231.14 153.5998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
-			(at 220.98 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
-			(at 222.25 167.005 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 219.71 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "859652ad-351a-484b-8116-2490ef89f79a")
-		)
-		(pin "1"
-			(uuid "849ba2e4-0c6a-42fb-8404-70890d524cca")
-		)
-		(pin "2"
-			(uuid "a5d73848-ae54-4225-8b54-74783079bf75")
-		)
-		(pin "4"
-			(uuid "7c13fa18-6309-432b-a446-baa1608d9d1c")
-		)
-		(instances
-			(project "astronomer"
-				(path "/a70307ac-575e-44e0-9d46-52d12b81df3d"
-					(reference "D45")
 					(unit 1)
 				)
 			)
@@ -6255,7 +6052,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Keyboard:SK6812-MINI-E"
 			(at 41.91 137.16 0)
 			(effects
 				(font
@@ -6420,7 +6217,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 86.36 148.59 0)
 			(effects
 				(font
@@ -6893,7 +6690,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Keyboard:SK6812-MINI-E"
 			(at 77.47 165.1 0)
 			(effects
 				(font
@@ -6968,7 +6765,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Keyboard:SK6812-MINI-E"
 			(at 114.3 165.1 0)
 			(effects
 				(font
@@ -7378,7 +7175,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 13.97 121.92 0)
 			(effects
 				(font
@@ -7445,7 +7242,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Keyboard:SK6812-MINI-E"
 			(at 132.08 137.16 0)
 			(effects
 				(font
@@ -7520,7 +7317,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Keyboard:SK6812-MINI-E"
 			(at 185.42 137.16 0)
 			(effects
 				(font
@@ -7597,7 +7394,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 139.7 148.59 0)
 			(effects
 				(font
@@ -7797,81 +7594,6 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812MINI")
-		(at 236.22 157.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "64c79fc5-b4fd-49cd-8cb0-201a8a482a29")
-		(property "Reference" "D46"
-			(at 247.65 151.0598 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI"
-			(at 247.65 153.5998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
-			(at 237.49 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
-			(at 238.76 167.005 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 236.22 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "bd2417b2-3fa4-4d79-8f2c-e580b9c32d95")
-		)
-		(pin "1"
-			(uuid "9910bec6-bb4a-4337-89a3-4fb914db395d")
-		)
-		(pin "2"
-			(uuid "da75745e-e2e6-4496-9476-b30823b17220")
-		)
-		(pin "4"
-			(uuid "c68c5560-c045-4a86-9c81-034644da7f84")
-		)
-		(instances
-			(project "astronomer"
-				(path "/a70307ac-575e-44e0-9d46-52d12b81df3d"
-					(reference "D46")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:SK6812MINI")
 		(at 43.18 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7895,7 +7617,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Keyboard:SK6812-MINI-E"
 			(at 44.45 165.1 0)
 			(effects
 				(font
@@ -8058,7 +7780,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Keyboard:SK6812-MINI-E"
 			(at 184.15 165.1 0)
 			(effects
 				(font
@@ -8203,7 +7925,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 67.31 120.65 0)
 			(effects
 				(font
@@ -8884,7 +8606,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Keyboard:SK6812-MINI-E"
 			(at 130.81 165.1 0)
 			(effects
 				(font
@@ -8959,7 +8681,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Keyboard:SK6812-MINI-E"
 			(at 111.76 137.16 0)
 			(effects
 				(font
@@ -9168,7 +8890,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Keyboard:SK6812-MINI-E"
 			(at 204.47 165.1 0)
 			(effects
 				(font
@@ -9245,7 +8967,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 27.94 148.59 0)
 			(effects
 				(font
@@ -9536,7 +9258,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Keyboard:SK6812-MINI-E"
 			(at 201.93 137.16 0)
 			(effects
 				(font
@@ -9611,7 +9333,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Keyboard:SK6812-MINI-E"
 			(at 60.96 165.1 0)
 			(effects
 				(font
@@ -9686,7 +9408,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Keyboard:SK6812-MINI-E"
 			(at 78.74 137.16 0)
 			(effects
 				(font
@@ -9761,7 +9483,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Keyboard:SK6812-MINI-E"
 			(at 165.1 137.16 0)
 			(effects
 				(font
@@ -9904,7 +9626,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Keyboard:SK6812-MINI-E"
 			(at 97.79 165.1 0)
 			(effects
 				(font
@@ -10179,7 +9901,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Keyboard:SK6812-MINI-E"
 			(at 167.64 165.1 0)
 			(effects
 				(font
@@ -10254,7 +9976,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Keyboard:SK6812-MINI-E"
 			(at 151.13 165.1 0)
 			(effects
 				(font
@@ -10553,7 +10275,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 120.65 120.65 0)
 			(effects
 				(font
@@ -10909,7 +10631,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 69.85 58.42 0)
+		(at 68.58 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10918,7 +10640,7 @@
 		(fields_autoplaced yes)
 		(uuid "deee4328-19f6-45fa-a5b5-c8443a3264a9")
 		(property "Reference" "#PWR01"
-			(at 69.85 64.77 0)
+			(at 68.58 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10927,7 +10649,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 69.85 63.5 0)
+			(at 68.58 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10935,7 +10657,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 69.85 58.42 0)
+			(at 68.58 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10944,7 +10666,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 69.85 58.42 0)
+			(at 68.58 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10953,7 +10675,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 69.85 58.42 0)
+			(at 68.58 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
