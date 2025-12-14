@@ -2465,10 +2465,6 @@
 		(uuid "5ffda7de-33c5-48db-873b-e99275a90d8e")
 	)
 	(no_connect
-		(at 104.14 68.58)
-		(uuid "6beabbf6-911e-492e-becb-c59841e6a4c9")
-	)
-	(no_connect
 		(at 134.62 45.72)
 		(uuid "7e93c1f9-79dc-48dd-98e2-476b1b1a69e3")
 	)
@@ -4288,6 +4284,16 @@
 	)
 	(wire
 		(pts
+			(xy 102.87 68.58) (xy 104.14 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8ad5293-d79f-48e6-a7e0-26a81f547928")
+	)
+	(wire
+		(pts
 			(xy 224.79 81.28) (xy 224.79 82.55)
 		)
 		(stroke
@@ -4635,6 +4641,16 @@
 			(justify left bottom)
 		)
 		(uuid "3720138e-754e-4d24-832b-f8f2dba5c977")
+	)
+	(label "LED_TXRX"
+		(at 102.87 68.58 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "453de3c1-33fe-42dd-9f30-ed7f8299011b")
 	)
 	(label "Row 2"
 		(at 102.87 58.42 180)
