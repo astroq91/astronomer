@@ -5330,7 +5330,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Keyboard:C_1206_3216Metric"
 			(at 173.99 120.65 0)
 			(effects
 				(font
@@ -5787,7 +5787,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Keyboard:C_1206_3216Metric"
 			(at 193.04 148.59 0)
 			(effects
 				(font
@@ -6243,7 +6243,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Keyboard:C_1206_3216Metric"
 			(at 86.36 148.59 0)
 			(effects
 				(font
@@ -7201,7 +7201,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Keyboard:C_1206_3216Metric"
 			(at 13.97 121.92 0)
 			(effects
 				(font
@@ -7420,7 +7420,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Keyboard:C_1206_3216Metric"
 			(at 139.7 148.59 0)
 			(effects
 				(font
@@ -7951,7 +7951,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Keyboard:C_1206_3216Metric"
 			(at 67.31 120.65 0)
 			(effects
 				(font
@@ -8993,7 +8993,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Keyboard:C_1206_3216Metric"
 			(at 27.94 148.59 0)
 			(effects
 				(font
@@ -10301,7 +10301,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Keyboard:C_1206_3216Metric"
 			(at 120.65 120.65 0)
 			(effects
 				(font
