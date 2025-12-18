@@ -2241,13 +2241,14 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Note: This schematic is for the master half (left side).\nFor the slave half, the GP21 pin is unconnected,\nand pin 2 of J1 is connected to LED.\nLastly, pin 1 of D44 is disconnected."
+	(text "Note: This schematic is for the master half (left side).\nFor the slave half, the GP21 pin is unconnected,\nand pin 2 of J1 is connected to pin 3 of D23\n(bypassing the resistor and level shifter).\nLastly, pin 1 of D44 is disconnected."
 		(exclude_from_sim no)
-		(at 112.776 93.726 0)
+		(at 76.454 90.678 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
+			(justify left)
 		)
 		(uuid "f3062d79-8ec3-43fe-a8b1-8a9e6b20491a")
 	)
@@ -6366,7 +6367,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keyboard:SOT-23-5"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
 			(at 20.32 87.63 0)
 			(effects
 				(font
