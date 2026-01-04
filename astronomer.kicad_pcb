@@ -158,7 +158,7 @@
 	(net 77 "/LED_TX")
 	(net 78 "unconnected-(U1-GP9-Pad9)")
 	(net 79 "unconnected-(U1-GP9-Pad9)_1")
-	(footprint "Keyboard:SW_Hotswap_Kailh_Choc_V1_1.00u"
+	(footprint "footprints:SW_Hotswap_Kailh_Choc_V1_1.00u"
 		(layer "F.Cu")
 		(uuid "0a094828-539f-4328-a6fa-ee337bcbcfbc")
 		(at 241.59375 56.64 180)
@@ -2418,7 +2418,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:RP2040_ProMicro"
+	(footprint "footprints:RP2040_ProMicro"
 		(layer "F.Cu")
 		(uuid "1061a0c1-3c16-4dda-ad96-13f0fe90e5e8")
 		(at 144.1749 39.2518)
@@ -3221,7 +3221,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Keyboard:MountingHole_2.2mm_M2"
+	(footprint "footprints:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
 		(uuid "136928e9-a725-4a41-97cd-fee956bb16d0")
 		(at 151.05265 83.211)
@@ -3317,7 +3317,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Keyboard:SW_Hotswap_Kailh_Choc_V1_1.00u"
+	(footprint "footprints:SW_Hotswap_Kailh_Choc_V1_1.00u"
 		(layer "F.Cu")
 		(uuid "1c89ce97-849c-4093-85ef-b10ff188f74c")
 		(at 241.59375 74.64 180)
@@ -5577,7 +5577,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SW_Hotswap_Kailh_Choc_V1_1.00u"
+	(footprint "footprints:SW_Hotswap_Kailh_Choc_V1_1.00u"
 		(layer "F.Cu")
 		(uuid "255ed818-e4b5-46f9-b64f-2d91a78d4d83")
 		(at 184.59375 88.14 180)
@@ -7837,7 +7837,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:MountingHole_2.2mm_M2"
+	(footprint "footprints:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
 		(uuid "310bc06e-cd87-4a76-a703-b39c2dffb735")
 		(at 248.13895 104.301)
@@ -7933,7 +7933,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Keyboard:MountingHole_2.2mm_M2"
+	(footprint "footprints:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
 		(uuid "33e1dc98-b468-46fb-a73e-e057a840bcab")
 		(at 254.2254 48.6234)
@@ -8029,7 +8029,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Keyboard:MountingHole_2.2mm_M2"
+	(footprint "footprints:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
 		(uuid "3828abcb-d433-4cc1-af93-a60e7f2a916a")
 		(at 143.7786 52.8414)
@@ -8125,7 +8125,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Keyboard:SW_Hotswap_Kailh_Choc_V1_1.00u"
+	(footprint "footprints:SW_Hotswap_Kailh_Choc_V1_1.00u"
 		(layer "F.Cu")
 		(uuid "463f2d3c-c6b1-480d-a9d2-88d32db3dca5")
 		(at 165.59375 92.64 180)
@@ -10385,7 +10385,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SW_Hotswap_Kailh_Choc_V1_1.00u"
+	(footprint "footprints:SW_Hotswap_Kailh_Choc_V1_1.00u"
 		(layer "F.Cu")
 		(uuid "468a87d1-4c58-43e9-82ef-807b672f12cb")
 		(at 203.59375 46.94 180)
@@ -12645,7 +12645,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+	(footprint "footprints:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "46c0d5f4-7e74-4bf5-8289-9f1f0f84ebae")
 		(at 151.450625 79.14 180)
@@ -12922,7 +12922,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:RJ12 6P6C"
+	(footprint "footprints:RJ12 6P6C"
 		(layer "F.Cu")
 		(uuid "48a6b754-b39f-44cb-b426-0c970fed0129")
 		(at 123.283222 79.295965 30)
@@ -13333,7 +13333,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Keyboard:MountingHole_2.2mm_M2"
+	(footprint "footprints:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
 		(uuid "5707c3aa-b84a-4ddd-8936-b3f1a132db4c")
 		(at 178.219 100.5048)
@@ -13429,7 +13429,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Keyboard:SW_Hotswap_Kailh_Choc_V1_1.00u"
+	(footprint "footprints:SW_Hotswap_Kailh_Choc_V1_1.00u"
 		(layer "F.Cu")
 		(uuid "57d9fbfc-03bf-4e4a-bf9b-38f178faad92")
 		(at 167.234375 113.17125 -168)
@@ -15689,7 +15689,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SW_Hotswap_Kailh_Choc_V1_1.00u"
+	(footprint "footprints:SW_Hotswap_Kailh_Choc_V1_1.00u"
 		(layer "F.Cu")
 		(uuid "6b4c6cb2-59ba-4d5e-a013-7990845570a6")
 		(at 241.59375 92.64 180)
@@ -17949,7 +17949,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SW_Hotswap_Kailh_Choc_V1_1.00u"
+	(footprint "footprints:SW_Hotswap_Kailh_Choc_V1_1.00u"
 		(layer "F.Cu")
 		(uuid "6b623b1a-e0c0-4527-b7c0-62c26564e458")
 		(at 165.59375 56.64 180)
@@ -20209,7 +20209,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SW_Hotswap_Kailh_Choc_V1_1.00u"
+	(footprint "footprints:SW_Hotswap_Kailh_Choc_V1_1.00u"
 		(layer "F.Cu")
 		(uuid "872ad713-70f6-432a-a72d-4c50080ea272")
 		(at 189.072332 111.678198 170)
@@ -22469,7 +22469,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SW_Hotswap_Kailh_Choc_V1_1.00u"
+	(footprint "footprints:SW_Hotswap_Kailh_Choc_V1_1.00u"
 		(layer "F.Cu")
 		(uuid "873cfa4d-8f23-4e89-a0c9-ca5f9d270c9d")
 		(at 203.59375 82.94 180)
@@ -24729,7 +24729,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SW_Hotswap_Kailh_Choc_V1_1.00u"
+	(footprint "footprints:SW_Hotswap_Kailh_Choc_V1_1.00u"
 		(layer "F.Cu")
 		(uuid "8c187590-4b9f-496d-bd16-09e4ee843010")
 		(at 184.59375 52.14 180)
@@ -26989,7 +26989,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SW_Hotswap_Kailh_Choc_V1_1.00u"
+	(footprint "footprints:SW_Hotswap_Kailh_Choc_V1_1.00u"
 		(layer "F.Cu")
 		(uuid "98266b0c-1ce6-488c-8143-891cfc935afa")
 		(at 203.59375 64.94 180)
@@ -29249,7 +29249,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SW_Hotswap_Kailh_Choc_V1_1.00u"
+	(footprint "footprints:SW_Hotswap_Kailh_Choc_V1_1.00u"
 		(layer "F.Cu")
 		(uuid "9d365553-5244-480e-ae58-92a94fd8d7dc")
 		(at 260.59375 79.14 180)
@@ -31509,7 +31509,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SW_Hotswap_Kailh_Choc_V1_1.00u"
+	(footprint "footprints:SW_Hotswap_Kailh_Choc_V1_1.00u"
 		(layer "F.Cu")
 		(uuid "a5401731-d423-4f5d-84fc-a40c9f455ff0")
 		(at 260.59375 97.14 180)
@@ -33769,7 +33769,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SW_Hotswap_Kailh_Choc_V1_1.00u"
+	(footprint "footprints:SW_Hotswap_Kailh_Choc_V1_1.00u"
 		(layer "F.Cu")
 		(uuid "a7d31fed-5a3a-4bc9-ab83-a7d3e806d417")
 		(at 222.59375 85.89 180)
@@ -36029,7 +36029,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SW_Hotswap_Kailh_Choc_V1_1.00u"
+	(footprint "footprints:SW_Hotswap_Kailh_Choc_V1_1.00u"
 		(layer "F.Cu")
 		(uuid "b013b22a-d33f-40c7-a9f6-19253aa7fe8e")
 		(at 222.59375 67.89 180)
@@ -38289,7 +38289,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SW_Hotswap_Kailh_Choc_V1_1.00u"
+	(footprint "footprints:SW_Hotswap_Kailh_Choc_V1_1.00u"
 		(layer "F.Cu")
 		(uuid "b2fda57f-e41f-46be-8b3d-ed686096c3c5")
 		(at 165.59375 74.64 180)
@@ -40549,7 +40549,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SW_Hotswap_Kailh_Choc_V1_1.00u"
+	(footprint "footprints:SW_Hotswap_Kailh_Choc_V1_1.00u"
 		(layer "F.Cu")
 		(uuid "c57789c5-f53c-4d50-a2f7-178dddf28869")
 		(at 222.59375 49.89 180)
@@ -42809,7 +42809,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SW_Hotswap_Kailh_Choc_V1_1.00u"
+	(footprint "footprints:SW_Hotswap_Kailh_Choc_V1_1.00u"
 		(layer "F.Cu")
 		(uuid "dc4d18c5-f837-4dda-9166-f87d793af6b8")
 		(at 184.59375 70.14 180)
@@ -45069,7 +45069,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SW_Hotswap_Kailh_Choc_V1_1.00u"
+	(footprint "footprints:SW_Hotswap_Kailh_Choc_V1_1.00u"
 		(layer "F.Cu")
 		(uuid "e1c95358-acd5-498f-9461-224e26cab398")
 		(at 260.59375 61.14 180)
@@ -47329,7 +47329,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SW_Hotswap_Kailh_Choc_V1_1.00u"
+	(footprint "footprints:SW_Hotswap_Kailh_Choc_V1_1.00u"
 		(layer "F.Cu")
 		(uuid "ecf1ba08-7dfc-4a59-9421-87c22d9f5db2")
 		(at 144.80501 101.0052 -150)
@@ -49589,7 +49589,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SW_Hotswap_Kailh_Choc_V1_1.00u"
+	(footprint "footprints:SW_Hotswap_Kailh_Choc_V1_1.00u"
 		(layer "F.Cu")
 		(uuid "fb4da284-c4da-453e-bb74-93c721997678")
 		(at 146.979874 120.909231 -150)
@@ -51849,7 +51849,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:D_SOD-128-Reversible"
+	(footprint "footprints:D_SOD-128-Reversible"
 		(layer "B.Cu")
 		(uuid "002a1b34-c3c4-4a8b-aeb0-320477e2f5f9")
 		(at 131.0119 107.6754 120)
@@ -52394,7 +52394,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:D_SOD-128-Reversible"
+	(footprint "footprints:D_SOD-128-Reversible"
 		(layer "B.Cu")
 		(uuid "019a5681-1d5c-4cf9-be59-8970648ddc64")
 		(at 223.3478 97.8334 90)
@@ -52939,7 +52939,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:C_1206_3216Metric"
+	(footprint "footprints:C_1206_3216Metric"
 		(layer "B.Cu")
 		(uuid "049647c2-4aed-49b8-9c11-ae6d35796148")
 		(at 163.52245 104.1604 -168)
@@ -53249,7 +53249,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:C_1206_3216Metric"
+	(footprint "footprints:C_1206_3216Metric"
 		(layer "B.Cu")
 		(uuid "04a93ecd-fe24-4ddf-af98-5efb1c012279")
 		(at 157.88135 88.4132 180)
@@ -53559,7 +53559,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SK6812-MINI-E"
+	(footprint "footprints:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "05f03f76-c72f-4d68-8236-4bad02628228")
 		(at 165.60075 69.151)
@@ -53937,7 +53937,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:D_SOD-128-Reversible"
+	(footprint "footprints:D_SOD-128-Reversible"
 		(layer "B.Cu")
 		(uuid "0ad8bafa-3d4b-4bec-b9e9-2b348329a0b8")
 		(at 133.83245 105.9882 120)
@@ -54482,7 +54482,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:D_SOD-128-Reversible"
+	(footprint "footprints:D_SOD-128-Reversible"
 		(layer "B.Cu")
 		(uuid "0b5071f4-cff2-413c-acd7-83b8fb41127c")
 		(at 193.9547 96.568 90)
@@ -55027,7 +55027,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SK6812-MINI-E"
+	(footprint "footprints:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "11b8d95d-abe3-474d-9243-043d0f82add6")
 		(at 241.60715 69.151)
@@ -55405,7 +55405,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SK6812-MINI-E"
+	(footprint "footprints:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "181e6b09-fc39-4126-93f7-02f44a4f75ff")
 		(at 260.60875 73.6502)
@@ -55783,7 +55783,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:C_1206_3216Metric"
+	(footprint "footprints:C_1206_3216Metric"
 		(layer "B.Cu")
 		(uuid "1bd4f5cf-8d18-4815-9026-6551e3c0d5da")
 		(at 158.77205 52.4196 180)
@@ -56093,7 +56093,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SK6812-MINI-E"
+	(footprint "footprints:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "21345507-cc89-42c0-96f6-65d367618752")
 		(at 241.60715 51.1542 180)
@@ -56471,7 +56471,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:D_SOD-128-Reversible"
+	(footprint "footprints:D_SOD-128-Reversible"
 		(layer "B.Cu")
 		(uuid "2165c899-1e7a-4ee1-91d1-8d885bad7577")
 		(at 207.0183 94.8808 90)
@@ -57016,7 +57016,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SK6812-MINI-E"
+	(footprint "footprints:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "25017009-8c67-426f-af1c-b68cb9c798bb")
 		(at 189.94655 106.2694 -10)
@@ -57394,7 +57394,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:D_SOD-128-Reversible"
+	(footprint "footprints:D_SOD-128-Reversible"
 		(layer "B.Cu")
 		(uuid "25b7cce0-0d6f-4495-8f39-b8952a87f161")
 		(at 229.8796 97.8334 90)
@@ -57939,7 +57939,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SK6812-MINI-E"
+	(footprint "footprints:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "2c86d4dc-4f53-4e2e-8217-53146c5b4a20")
 		(at 203.60395 77.4464 180)
@@ -58317,7 +58317,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:D_SOD-128-Reversible"
+	(footprint "footprints:D_SOD-128-Reversible"
 		(layer "B.Cu")
 		(uuid "2e86da95-394f-4be4-a255-a0ca3ed85d28")
 		(at 220.0819 97.8334 90)
@@ -58862,7 +58862,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SK6812-MINI-E"
+	(footprint "footprints:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "2fab7134-33c7-4175-854b-830e764f107a")
 		(at 222.60555 44.4054 180)
@@ -59240,7 +59240,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SK6812-MINI-E"
+	(footprint "footprints:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "2fe68b88-6509-4e71-bd31-94aa35bb0b50")
 		(at 184.60235 82.6486 180)
@@ -59618,7 +59618,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SK6812-MINI-E"
+	(footprint "footprints:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "32d1823d-2c52-4c72-b5f0-3705b17fd29d")
 		(at 241.60715 87.1478 180)
@@ -59996,7 +59996,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SK6812-MINI-E"
+	(footprint "footprints:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "38c0fed2-d711-4a7d-b6e9-bb7ba4f42b28")
 		(at 184.60235 46.655 180)
@@ -60374,7 +60374,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:D_SOD-128-Reversible"
+	(footprint "footprints:D_SOD-128-Reversible"
 		(layer "B.Cu")
 		(uuid "4b1ca597-c339-45a3-b353-d8e22b7d1d44")
 		(at 172.281 46.0926 -150)
@@ -60919,7 +60919,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:D_SOD-128-Reversible"
+	(footprint "footprints:D_SOD-128-Reversible"
 		(layer "B.Cu")
 		(uuid "4cd49f03-4f02-4102-acde-86a0953e4e6d")
 		(at 216.816 97.8334 90)
@@ -61464,7 +61464,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SK6812-MINI-E"
+	(footprint "footprints:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "4e2d325e-da38-4492-86ec-0c7c2e1b3bba")
 		(at 165.60075 87.1478 180)
@@ -61842,7 +61842,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:D_SOD-128-Reversible"
+	(footprint "footprints:D_SOD-128-Reversible"
 		(layer "B.Cu")
 		(uuid "4f2564e8-1505-4982-bea7-47baefd66825")
 		(at 226.6137 97.8334 90)
@@ -62387,7 +62387,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:D_SOD-128-Reversible"
+	(footprint "footprints:D_SOD-128-Reversible"
 		(layer "B.Cu")
 		(uuid "58e1eab4-66ab-4864-afad-a2d426617219")
 		(at 213.5501 97.8334 90)
@@ -62932,7 +62932,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SK6812-MINI-E"
+	(footprint "footprints:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "5bae4854-56b5-4fa6-9da4-fff098237463")
 		(at 144.0755 116.252 30)
@@ -63309,7 +63309,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SK6812-MINI-E"
+	(footprint "footprints:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "64ce4095-03ae-4518-aad6-28d2628950eb")
 		(at 165.60075 51.7166 180)
@@ -63687,7 +63687,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:C_1206_3216Metric"
+	(footprint "footprints:C_1206_3216Metric"
 		(layer "B.Cu")
 		(uuid "66b039de-91ab-4c37-8ca8-1c4b979ed42a")
 		(at 214.88615 62.5428 180)
@@ -63997,7 +63997,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:D_SOD-128-Reversible"
+	(footprint "footprints:D_SOD-128-Reversible"
 		(layer "B.Cu")
 		(uuid "67321124-46ee-440c-aefe-d831aec34fae")
 		(at 246.2091 46.0926 -30)
@@ -64542,7 +64542,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:D_SOD-128-Reversible"
+	(footprint "footprints:D_SOD-128-Reversible"
 		(layer "B.Cu")
 		(uuid "7863c128-e843-4365-a135-bfd8a90f9371")
 		(at 239.9742 46.0926 -30)
@@ -65087,7 +65087,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:C_1206_3216Metric"
+	(footprint "footprints:C_1206_3216Metric"
 		(layer "B.Cu")
 		(uuid "7b0ea3e8-37e6-4962-9af8-aa92f34bbec8")
 		(at 214.88615 45.8114 180)
@@ -65397,7 +65397,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:D_SOD-128-Reversible"
+	(footprint "footprints:D_SOD-128-Reversible"
 		(layer "B.Cu")
 		(uuid "7cfd814f-5c7a-453d-a37e-b0b35e4ecd0d")
 		(at 197.2206 94.8808 90)
@@ -65942,7 +65942,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SK6812-MINI-E"
+	(footprint "footprints:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "7e592ea3-f01c-4581-b2b9-4cec86bd256a")
 		(at 260.60875 91.647 180)
@@ -66320,7 +66320,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:D_SOD-128-Reversible"
+	(footprint "footprints:D_SOD-128-Reversible"
 		(layer "B.Cu")
 		(uuid "8b61f67d-f228-4e4e-a1de-74e860d1b68a")
 		(at 134.2778 113.2994 -60)
@@ -66865,7 +66865,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:D_SOD-128-Reversible"
+	(footprint "footprints:D_SOD-128-Reversible"
 		(layer "B.Cu")
 		(uuid "8f36e8c3-d950-47b9-8b4a-8fc32dd6ac71")
 		(at 137.09835 111.6122 -60)
@@ -67410,7 +67410,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-23-5"
+	(footprint "footprints:SOT-23-5"
 		(layer "B.Cu")
 		(uuid "8f957710-7339-41ec-8eaa-bf22af7b8fc1")
 		(at 143.1875 43.98375)
@@ -67760,7 +67760,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SK6812-MINI-E"
+	(footprint "footprints:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "977153af-9557-43bc-8e13-7ba608cc2795")
 		(at 222.60555 62.4022)
@@ -68138,7 +68138,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SK6812-MINI-E"
+	(footprint "footprints:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "a09dc8f2-94b6-45b0-a7a0-620f7132a1c2")
 		(at 165.89765 107.816 12)
@@ -68516,7 +68516,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:C_1206_3216Metric"
+	(footprint "footprints:C_1206_3216Metric"
 		(layer "B.Cu")
 		(uuid "a317b4f9-fba0-4461-9be0-372f9faad4df")
 		(at 187.71875 101.64 170)
@@ -68826,7 +68826,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SK6812-MINI-E"
+	(footprint "footprints:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "af18ca06-d280-427b-9c1c-d2931cc883ee")
 		(at 260.60875 55.6534 180)
@@ -69204,7 +69204,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SK6812-MINI-E"
+	(footprint "footprints:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "aff70d7d-0788-47d8-beb4-0e91eee37d54")
 		(at 203.60395 41.4528 180)
@@ -69582,7 +69582,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SK6812-MINI-E"
+	(footprint "footprints:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "b0776827-1c70-4822-b501-3a9a3c31c366")
 		(at 222.60555 80.399 180)
@@ -69960,7 +69960,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:D_SOD-128-Reversible"
+	(footprint "footprints:D_SOD-128-Reversible"
 		(layer "B.Cu")
 		(uuid "b1f43d95-1062-4bb6-9847-3798418790b7")
 		(at 166.0461 46.0926 -150)
@@ -70505,7 +70505,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SK6812-MINI-E"
+	(footprint "footprints:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "b469c540-ec90-407b-8928-2e057a51f91a")
 		(at 141.9972 96.2868 30)
@@ -70882,7 +70882,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:D_SOD-128-Reversible"
+	(footprint "footprints:D_SOD-128-Reversible"
 		(layer "B.Cu")
 		(uuid "b5849808-6285-4020-bb89-83e0ada7d9d5")
 		(at 159.95965 46.0926 -150)
@@ -71427,7 +71427,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:C_1206_3216Metric"
+	(footprint "footprints:C_1206_3216Metric"
 		(layer "B.Cu")
 		(uuid "c1b12087-7efa-4645-925a-07637ae4ffb6")
 		(at 170.2027 66.0578)
@@ -71737,7 +71737,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SK6812-MINI-E"
+	(footprint "footprints:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "c496c773-bdc1-4695-940e-a15cfccddd85")
 		(at 203.60395 59.4496)
@@ -72115,7 +72115,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:C_1206_3216Metric"
+	(footprint "footprints:C_1206_3216Metric"
 		(layer "B.Cu")
 		(uuid "c4c01df0-e1f2-4c19-8f52-e2774b3e9fd6")
 		(at 214.88615 81.6644 180)
@@ -72425,7 +72425,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:SK6812-MINI-E"
+	(footprint "footprints:SK6812-MINI-E"
 		(layer "B.Cu")
 		(uuid "cc269c27-c2c3-4fc3-958c-9661b14207a4")
 		(at 184.4539 64.6518)
@@ -72803,7 +72803,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:D_SOD-128-Reversible"
+	(footprint "footprints:D_SOD-128-Reversible"
 		(layer "B.Cu")
 		(uuid "d5d093ae-a190-4170-bd44-a866eebcdf48")
 		(at 233.7393 46.0926 -30)
@@ -73348,7 +73348,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:D_SOD-128-Reversible"
+	(footprint "footprints:D_SOD-128-Reversible"
 		(layer "B.Cu")
 		(uuid "dd57e30b-d4a5-4b58-bf02-5668e9530ed1")
 		(at 200.4865 94.8808 90)
@@ -73893,7 +73893,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:D_SOD-128-Reversible"
+	(footprint "footprints:D_SOD-128-Reversible"
 		(layer "B.Cu")
 		(uuid "f6256217-07c8-4d1b-b589-16e24036c639")
 		(at 210.2842 94.8808 90)
@@ -74438,7 +74438,7 @@
 			)
 		)
 	)
-	(footprint "Keyboard:D_SOD-128-Reversible"
+	(footprint "footprints:D_SOD-128-Reversible"
 		(layer "B.Cu")
 		(uuid "fca7a6a9-7e66-490e-9926-7aef6bebc904")
 		(at 203.7524 94.8808 90)
