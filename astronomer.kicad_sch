@@ -5390,7 +5390,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Keyboard:D_SOD-128-Reversible"
+		(property "Footprint" "Library:D_SOD-123 Reversible"
 			(at 212.725 113.03 0)
 			(effects
 				(font
@@ -5478,7 +5478,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Keyboard:D_SOD-128-Reversible"
+		(property "Footprint" "Library:D_SOD-123 Reversible"
 			(at 196.215 43.18 0)
 			(effects
 				(font
@@ -6144,7 +6144,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Keyboard:D_SOD-128-Reversible"
+		(property "Footprint" "Library:D_SOD-123 Reversible"
 			(at 229.235 43.18 0)
 			(effects
 				(font
@@ -6514,7 +6514,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Keyboard:D_SOD-128-Reversible"
+		(property "Footprint" "Library:D_SOD-123 Reversible"
 			(at 245.745 43.18 0)
 			(effects
 				(font
@@ -6677,7 +6677,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Keyboard:D_SOD-128-Reversible"
+		(property "Footprint" "Library:D_SOD-123 Reversible"
 			(at 179.705 43.18 0)
 			(effects
 				(font
@@ -6834,7 +6834,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Keyboard:D_SOD-128-Reversible"
+		(property "Footprint" "Library:D_SOD-123 Reversible"
 			(at 262.255 64.77 0)
 			(effects
 				(font
@@ -6922,7 +6922,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Keyboard:D_SOD-128-Reversible"
+		(property "Footprint" "Library:D_SOD-123 Reversible"
 			(at 262.255 43.18 0)
 			(effects
 				(font
@@ -7152,7 +7152,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Keyboard:D_SOD-128-Reversible"
+		(property "Footprint" "Library:D_SOD-123 Reversible"
 			(at 212.725 86.36 0)
 			(effects
 				(font
@@ -7458,7 +7458,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Keyboard:D_SOD-128-Reversible"
+		(property "Footprint" "Library:D_SOD-123 Reversible"
 			(at 196.215 113.03 0)
 			(effects
 				(font
@@ -7546,7 +7546,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Keyboard:D_SOD-128-Reversible"
+		(property "Footprint" "Library:D_SOD-123 Reversible"
 			(at 245.745 86.36 0)
 			(effects
 				(font
@@ -7634,7 +7634,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Keyboard:D_SOD-128-Reversible"
+		(property "Footprint" "Library:D_SOD-123 Reversible"
 			(at 245.745 64.77 0)
 			(effects
 				(font
@@ -8145,7 +8145,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Keyboard:D_SOD-128-Reversible"
+		(property "Footprint" "Library:D_SOD-123 Reversible"
 			(at 179.705 113.03 0)
 			(effects
 				(font
@@ -8308,7 +8308,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Keyboard:D_SOD-128-Reversible"
+		(property "Footprint" "Library:D_SOD-123 Reversible"
 			(at 229.235 86.36 0)
 			(effects
 				(font
@@ -8608,7 +8608,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Keyboard:D_SOD-128-Reversible"
+		(property "Footprint" "Library:D_SOD-123 Reversible"
 			(at 179.705 64.77 0)
 			(effects
 				(font
@@ -8696,7 +8696,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Keyboard:D_SOD-128-Reversible"
+		(property "Footprint" "Library:D_SOD-123 Reversible"
 			(at 179.705 86.36 0)
 			(effects
 				(font
@@ -9134,7 +9134,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Keyboard:D_SOD-128-Reversible"
+		(property "Footprint" "Library:D_SOD-123 Reversible"
 			(at 262.255 86.36 0)
 			(effects
 				(font
@@ -9784,7 +9784,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Keyboard:D_SOD-128-Reversible"
+		(property "Footprint" "Library:D_SOD-123 Reversible"
 			(at 212.725 64.77 0)
 			(effects
 				(font
@@ -10801,7 +10801,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Keyboard:D_SOD-128-Reversible"
+		(property "Footprint" "Library:D_SOD-123 Reversible"
 			(at 229.235 113.03 0)
 			(effects
 				(font
@@ -11160,7 +11160,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Keyboard:D_SOD-128-Reversible"
+		(property "Footprint" "Library:D_SOD-123 Reversible"
 			(at 212.725 43.18 0)
 			(effects
 				(font
@@ -11248,7 +11248,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Keyboard:D_SOD-128-Reversible"
+		(property "Footprint" "Library:D_SOD-123 Reversible"
 			(at 196.215 86.36 0)
 			(effects
 				(font
@@ -11672,7 +11672,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Keyboard:D_SOD-128-Reversible"
+		(property "Footprint" "Library:D_SOD-123 Reversible"
 			(at 196.215 64.77 0)
 			(effects
 				(font
@@ -12030,7 +12030,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Keyboard:D_SOD-128-Reversible"
+		(property "Footprint" "Library:D_SOD-123 Reversible"
 			(at 229.235 64.77 0)
 			(effects
 				(font
