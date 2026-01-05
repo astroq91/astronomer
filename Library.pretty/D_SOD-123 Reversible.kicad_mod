@@ -417,6 +417,20 @@
 		(uuid "1cd30ab6-5dae-4f6e-a834-39e8cd11bfe8")
 	)
 	(fp_text user "${REFERENCE}"
+		(at -2.65 1.45 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "81bdcd47-fda2-4cec-9b99-de7b9c27d726")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
 		(at 0 2.5 180)
 		(layer "B.Fab")
 		(uuid "18309ba7-1fee-4822-b3dd-5988de9cca26")
